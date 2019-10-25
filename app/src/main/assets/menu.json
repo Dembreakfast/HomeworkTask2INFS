@@ -1,0 +1,107 @@
+[
+    {
+        "id": 0,
+        "name": "Hamburger",
+        "description": "A Hamburger with one beef patty, tomato sauce, onions, lettuce and tomato.",
+        "image": "hamburger.jpg",
+        "price": 2.50
+    },
+    {
+        "id": 1,
+        "name": "Cheeseburger",
+        "description": "A cheese Burger with one beef patty, a slice of cheddar cheese, tomato sauce, onions, lettuce and tomato.",
+        "image": "cheeseburger.jpg",
+        "price": 3.00
+    },
+    {
+        "id": 2,
+        "name": "Double Double",
+        "description": "A cheese Burger with two beef patties, a slice of cheddar cheese, tomato sauce, onions, lettuce and tomato.",
+        "image": "doublecheeseburger.jpg",
+        "price": 4.00
+    },
+    {
+        "id": 3,
+        "name": "Chicken Burger",
+        "description": "A Burger with one chicken patty, tomato sauce, onions, lettuce and tomato.",
+        "image": "chickenburger.jpg",
+        "price": 4.00
+    },
+    {
+        "id": 4,
+        "name": "Aussie Burger",
+        "description": "A cheese Burger with one beef patty, a slice of cheddar cheese, beetroot, eggs, tomato sauce, onions, lettuce and tomato.",
+        "image": "aussieburger.jpg",
+        "price": 7.00
+    },
+    {
+        "id": 5,
+        "name": "Bacon & Egg Roll",
+        "description": "A roll with crispy bacon and fried eggs.",
+        "image": "baconegg.jpg",
+        "price": 3.00
+    },
+    {
+        "id": 6,
+        "name": "Chicken & Cheese Burger",
+        "description": "A cheese Burger with one chicken patty, a slice of cheddar cheese, tomato sauce, onions, lettuce and tomato.",
+        "image": "chickenburger.jpg",
+        "price": 4.00
+    },
+    {
+        "id": 7,
+        "name": "Chicken Nuggets",
+        "description": "If you want to see these nuggets you have to buy them and see the suprise!",
+        "image": "nuggets.jpg",
+        "price": 1.00
+    },
+    {
+        "id": 8,
+        "name": "Fries",
+        "description": "Pomme Frites.",
+        "image": "fries.jpg",
+        "price": 1.00
+    },
+    {
+        "id": 9,
+        "name": "Onion Rings",
+        "description": "A basket of perfectly battered, light onion rings.",
+        "image": "onionrings.jpg",
+        "price": 2.00
+    },
+    {
+        "id": 10,
+        "name": "Salad",
+        "description": "A garden salad for people who want salad for some reason.",
+        "image": "salad.jpg",
+        "price": 100.99
+    },
+    {
+        "id": 11,
+        "name": "Ice Cream",
+        "description": "A choice of vanilla, matcha, chocolate, strawberry, caramel or sesame ice cream.",
+        "image": "icecream.jpg",
+        "price": 2.00
+    },
+    {
+        "id": 12,
+        "name": "Soft Drink",
+        "description": "A choice of Coke, Fanta, Solo or Passiona.",
+        "image": "softdrink.jpg",
+        "price": 1.00
+    },
+    {
+        "id": 13,
+        "name": "Coffee",
+        "description": "For the people who like roasted bean water.",
+        "image": "coffee.jpg",
+        "price": 3.00
+    },
+    {
+        "id": 14,
+        "name": "Beer",
+        "description": "A pint of VB for your hard earned thirst!",
+        "image": "beer.jpg",
+        "price": 4.00
+    }
+]
